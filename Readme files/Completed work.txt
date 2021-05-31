@@ -1,2 +1,4 @@
-weeek 01. 
+week 01. 
 completed login and signup page with a error message 
+
+week 02.
